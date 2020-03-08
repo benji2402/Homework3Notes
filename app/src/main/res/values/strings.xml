@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes_Tropper</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="add_note">Add Note</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="fill_message">fill at least one field!</string>
+    <string name="login_info_missing_message">login info required!</string>
+    <string name="note_sync_failed">note_sync_failed.</string>
+</resources>
